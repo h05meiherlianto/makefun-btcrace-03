@@ -1,5 +1,9 @@
 # makefun-btcrace-03 — deep-dip cbBTC bot
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/h05meiherlianto/makefun-btcrace-03/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/h05meiherlianto/makefun-btcrace-03/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 Entry for the [make.fun](https://make.fun/bounty/btc-race-24h-20261118-1444)
 bounty `btc-race-24h-20261118-1444`: a bot that trades Coinbase Wrapped BTC
 (cbBTC) against USDC on 1-minute on-chain bars, long only, starting from
@@ -39,3 +43,7 @@ entry catches that recovery and clears the dev gate (net PnL > $0).
 - `main.ts` — the bot (Node 22, type-stripped TypeScript)
 - `vendor/makefun-bars.ts` — the kit SDK shim, copied byte-identical
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=rdxqc0yh&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
